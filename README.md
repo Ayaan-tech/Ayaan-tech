@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AgriSense-AI](https://github.com/Ayaan-tech/Agri-Sense)
 
-- 🌱 I’m currently learning **Java and C++ (OOPs), front-end and back-end development with technologies like React, Next.js, MongoDB, and Prisma. I'm also exploring trending tech stacks like TypeScript, Node.js, and Tailwind CSS, alongside diving into various machine learning algorithms to expand my skills.I am also proficient in Devops cycles and tools like Github Actions, Jenkins, Docker, Ansible and Terraform**
+- 🌱 I’m currently learning **GenAi, GAN's and LLMs**
 
 - 👯 I’m looking to collaborate on [AgriSense-AI](https://github.com/Ayaan-tech/Agri-Sense)
 
