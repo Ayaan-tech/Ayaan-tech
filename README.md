@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayaan Amjad</h1>
-<h3 align="center">"Aspiring Full-Stack Developer | Enthusiast of ML, DL & Neural Networks 🚀 | Building the Future of Intelligent Applications 🤖"</h3>
+<h3 align="center">"Aspiring Full-Stack Developer | Enthusiast of AI & Neural Networks 🚀 | Building the Future of Intelligent Applications 🤖"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaan-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ayaan-tech" /> </p>
 
