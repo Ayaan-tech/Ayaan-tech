@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaan-tech" alt="ayaan-tech" /></a> </p>
 
-- 🔭 I’m currently working on [AgriSense-AI](https://github.com/Ayaan-tech/Agri-Sense)
+- 🔭 I’m currently working on MobCloudX: Your AI-powered cloud platform to Sky-rocket your performance🚀
 
 - 🌱 I’m currently learning **GenAi, GAN's and LLMs**
 
 - 👯 I’m looking to collaborate on [AgriSense-AI](https://github.com/Ayaan-tech/Agri-Sense)
 
-- 🤝 I’m looking for help with [Meet](https://github.com/Ayaan-tech/Meet)
 
 - 📝 I regularly write articles on [https://ayaanamjad.hashnode.dev/](https://ayaanamjad.hashnode.dev/)
 
