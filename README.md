@@ -38,8 +38,7 @@ ayaan = {
 }
 ```
 
-I don't just integrate AI — I build the **perception layer**, the **adaptation layer**, and the **verification layer** that makes AI trustworthy in production. From training CNNs on Android to anchoring ZK-proofs on Polygon, I own the full stack.
-
+I don't just integrate AI — I build the **perception layer**, the **adaptation layer**, and the **verification layer** that makes AI trustworthy in production. 
 ---
 
 ## 🔥 What I'm Building
