@@ -130,7 +130,7 @@ An end-to-end platform for adaptive video streaming that **monitors, adapts, and
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 [MobCloudX](https://github.com/Ayaan-tech/MobCloudX)
 **AI QoE Intelligence Platform**
@@ -144,8 +144,8 @@ End-to-end adaptive video streaming platform with CNN-LSTM quality scoring, PPO 
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 </td>
-<td width="50%">
 
+<td width="50%" valign="top">
 
 ### 🎙️ [VoiceTrace-AI](https://github.com/farhat-1203/VoiceTrace-AI)
 **Hindi/Hinglish Voice Ledger — Hackathon Build**
@@ -158,7 +158,10 @@ End-to-end adaptive video streaming platform with CNN-LSTM quality scoring, PPO 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
-<td width="50%">
+</tr>
+
+<tr>
+<td colspan="2" align="center" valign="top">
 
 ### 🌾 [Fasal Guru](https://github.com/Ayaan-tech/FasalGuru)
 **Smart Crop Health Monitoring**
@@ -173,7 +176,6 @@ YOLOv11-based pest detection across 22 classes with 80% accuracy, pruning + quan
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
