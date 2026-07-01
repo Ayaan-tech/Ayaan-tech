@@ -128,6 +128,8 @@ An end-to-end platform for adaptive video streaming that **monitors, adapts, and
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -159,23 +161,26 @@ End-to-end adaptive video streaming platform with CNN-LSTM quality scoring, PPO 
 
 </td>
 </tr>
+</table>
 
-<tr>
-<td colspan="2" align="center" valign="top">
+<br>
+
+<div align="center">
 
 ### 🌾 [Fasal Guru](https://github.com/Ayaan-tech/FasalGuru)
+
 **Smart Crop Health Monitoring**
 
-YOLOv11-based pest detection across 22 classes with 80% accuracy, pruning + quantization for 65% faster inference, Random Forest soil nutrient profiling at 95% accuracy, ONNX-accelerated deployment.
+YOLOv11-based pest detection across 22 classes with **80% accuracy**, pruning + quantization for **65% faster inference**, Random Forest soil nutrient profiling at **95% accuracy**, and ONNX-accelerated deployment.
 
 `YOLOv11` `ONNX` `Random Forest` `Docker` `CI/CD`
+
+<br>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</td>
-</tr>
-</table>
+</div>
 ---
 
 ## 📊 GitHub Stats
