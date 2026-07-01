@@ -176,7 +176,7 @@ Full-stack scrap collection marketplace with PostGIS geo-dispatch (5→15km radi
 </td>
 <td width="50%">
 
-### 🌾 [Agri Sense AI](https://github.com/Ayaan-tech/Agri-Sense)
+### 🌾 [Fasal Guru](https://github.com/Ayaan-tech/FasalGuru)
 **Smart Crop Health Monitoring**
 
 YOLOv11-based pest detection across 22 classes with 80% accuracy, pruning + quantization for 65% faster inference, Random Forest soil nutrient profiling at 95% accuracy, ONNX-accelerated deployment.
