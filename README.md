@@ -30,7 +30,6 @@ ayaan = {
     "role":      "AI Systems Engineer + Full-Stack + Co-Founder",
     "location":  "Mumbai, India 🇮🇳",
     "education": "B.E. Computer Engineering — Rizvi College (GPA 9.09/10)",
-    "startup":   "Scrapiz Greentech Solutions — DPIIT Recognized",
     "building":  "MobCloudX — AI QoE Intelligence for Adaptive Video Streaming",
     "research":  "ACM MMSys / IEEE IWQoS paper (under submission)",
     "won":       ["3× National Hackathon Winner", "IBM SkillsBuild Top 30", "Techathon Runner-Up"],
@@ -147,21 +146,6 @@ End-to-end adaptive video streaming platform with CNN-LSTM quality scoring, PPO 
 </td>
 <td width="50%">
 
-### 🌱 [Scrapiz Greentech](https://play.google.com/store/search?q=scrapiz&c=apps)
-**DPIIT-Recognized Waste Marketplace**
-
-Full-stack scrap collection marketplace with PostGIS geo-dispatch (5→15km radius), Redis SETNX atomic locking, Django Channels WebSockets, Razorpay payment integration, and AI scrap scanner (YOLOv11s + GPT-4o-mini).
-
-`Django` `PostGIS` `Redis` `WebSockets` `AWS` `Live`
-
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 ### 🎙️ [VoiceTrace-AI](https://github.com/farhat-1203/VoiceTrace-AI)
 **Hindi/Hinglish Voice Ledger — Hackathon Build**
